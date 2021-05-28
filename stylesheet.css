@@ -1,0 +1,14 @@
+.nav-item{
+    padding-right: 4.375rem;
+}
+
+.sensor{
+    width: 10rem;
+    height: 10rem;
+}
+
+@media screen and (max-width: 575px) {
+     .snd-list{
+         display: none;
+     }
+  }
